@@ -1,7 +1,8 @@
 import React from 'react';
+
 //import { BiSearchAlt2 } from "react-icons/";
 import {
-    Nav,
+    Nav, 
     NavLink,
     Bars,
     NavMenu,

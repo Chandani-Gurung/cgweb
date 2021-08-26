@@ -10,9 +10,9 @@ const Contact = () => {
           height: '100vh'
         }}
       >
-        <h1>Annual Report</h1>
+        <button> Hire me </button>
       </div>
     );
   };
-    
+     
   export default Contact;
