@@ -1,2 +1,2 @@
 # cgweb
-This is a ract app
+This is a ract application
