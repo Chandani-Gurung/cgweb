@@ -16,7 +16,6 @@ export const NavLink = styled(Link)`
     color: #000000;
     display: flex;
     align-items: center;
-    text-decoration: none;
     font-family: Comic Sans MS, Comic Sans, cursive	;
     padding: 0 5rem;
     margin-top: -2em;
